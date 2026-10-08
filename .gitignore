@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+
+mlruns/
+mlflow.db
+
+models/*.pkl
+models/*.h5
+models/*.keras
+
+.ipynb_checkpoints/
+.env
+.vscode/

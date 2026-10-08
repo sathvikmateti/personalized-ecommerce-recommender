@@ -1,0 +1,10 @@
+.venv
+.git
+.ipynb_checkpoints
+notebooks
+data
+mlruns
+__pycache__
+*.pyc
+*.ipynb
+test_recommender.py
